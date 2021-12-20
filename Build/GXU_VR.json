@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GXU_VR_Project",
+"productVersion": "0.1",
+"dataUrl": "GXU_VR.data.unityweb",
+"wasmCodeUrl": "GXU_VR.wasm.code.unityweb",
+"wasmFrameworkUrl": "GXU_VR.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.32f1c1"
+}
